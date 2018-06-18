@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import { Route } from 'react-router-dom'
 
-import './Github.css'
+import './GitHub.css'
 import GithubUser from './GithubUser'
 
 class Github extends Component {

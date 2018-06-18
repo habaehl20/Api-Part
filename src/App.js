@@ -2,8 +2,8 @@ import React, { Component } from 'react'
 import { Route, Switch, NavLink } from 'react-router-dom'
 
 import './App.css'
-import Github from './Github'
-import Homework from './Homework'
+import Github from './GitHub'
+import Homework from './HomeWork'
 
 class App extends Component {
   render() {
